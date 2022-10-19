@@ -3,7 +3,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://om4ths.github.io/nlw-esports)
+<a target="_blank" href="https://om4ths.github.io/nlw-esports">🔗 Clique aqui para acessar</a>
 
 ## 🛠️ Tecnologias 
 - HTML
